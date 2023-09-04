@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Comparador</string>
+    <string name="texto1_app">Hola\nSoy un comparador de caracteres!.\nEscribe en el primer cuadro lo que desees comparar con lo del segundo cuadro ( que tambien
+        deberas escribir!)
+    </string>
+    <string name="txt_en_espera">Escribe lo que quieras comparar con el otro cuadro de texto</string>
+    <string name="boton">Comparar</string>
+</resources>
